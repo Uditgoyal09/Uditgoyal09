@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  UI/UX Designer | Full-Stack Developer | Creative Technologist
+  Full-Stack Developer | UI/UX Designer | Creative Technologist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=UI%2FUX+Designer+%26+Full+Stack+Developer;Designing+User-Centric+Digital+Experiences;React+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Scalable+Backend;Always+Building+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+Database;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps;UI%2FUX+as+a+Plus" />
 </p>
 
 ---
@@ -15,34 +15,17 @@
 ## 👨‍💻 About Me
 
 Hello! I'm **Udit Goyal**, from **India 🇮🇳**.  
-I am a **UI/UX Designer and Full-Stack Developer** passionate about crafting **intuitive user experiences** and building **scalable, high-performance web applications**.
+I am a **Full-Stack Developer** with strong experience in building **end-to-end web applications** — from responsive frontends to scalable backend systems.
 
-I love combining **design thinking** with **engineering skills** to create products that are not only functional but also visually engaging.  
-From wireframes to deployment — I enjoy the **entire product lifecycle**.
-
----
-
-## 🎓 Education
-
-- **B.Tech – Computer Science Engineering**  
-  *Specialization: Full-Stack Development / Software Engineering*
+Alongside development, I also have a good understanding of **UI/UX principles**, which helps me create applications that are **functional, intuitive, and user-friendly**.
 
 ---
 
 ## 🧠 Skills & Expertise
 
-### 🎨 UI / UX Design
-- User Research & Personas  
-- Wireframing & Prototyping  
-- Design Systems  
-- Responsive & Accessible Design  
-- Usability Testing  
+### 💻 Full-Stack Development
 
-**Tools:** Figma, Adobe XD, Canva
-
----
-
-### 💻 Frontend Development
+#### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
@@ -54,7 +37,7 @@ From wireframes to deployment — I enjoy the **entire product lifecycle**.
 
 ---
 
-### 🧩 Backend Development
+#### 🧩 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
@@ -66,7 +49,7 @@ From wireframes to deployment — I enjoy the **entire product lifecycle**.
 
 ---
 
-### 🛠️ Tools & Platforms
+#### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
@@ -74,24 +57,34 @@ From wireframes to deployment — I enjoy the **entire product lifecycle**.
 - Git & GitHub  
 - VS Code  
 - Postman  
-- Jupyter Notebook  
+- API Testing  
+
+---
+
+### 🎨 UI / UX (Secondary Skill)
+- Wireframing & Prototyping  
+- Responsive UI Design  
+- Basic UX Research  
+- Design Consistency & Usability  
+
+**Tools:** Figma, Canva
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced UI/UX Case Studies  
-- System Design for Full-Stack Apps  
+- Advanced Full-Stack Architecture  
+- System Design & Scalability  
 - Performance Optimization  
 - Cloud Deployment (AWS / Vercel)  
 
 ---
 
 ## 🚀 Interests
-- UI/UX Case Studies  
-- Full-Stack Web Apps  
-- SaaS Product Design  
+- Full-Stack Web Applications  
+- Backend Architecture  
+- SaaS Products  
 - Open-Source Contribution  
-- Startup & Product Building  
+- Continuous Learning  
 
 ---
 
@@ -126,6 +119,5 @@ From wireframes to deployment — I enjoy the **entire product lifecycle**.
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-🎯 Open to **UI/UX roles, Full-Stack projects, internships, and collaborations**  
-🚀 Let’s build beautiful & scalable products together!
-
+💼 Open to **Full-Stack Developer roles, internships, and projects**  
+🚀 UI/UX knowledge adds extra polish to my applications
