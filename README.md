@@ -17,9 +17,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Uditgoyal09&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Uditgoyal09?style=for-the-badge&color=58A6FF&label=FOLLOWERS&labelColor=161B22)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -29,23 +29,17 @@
 
 </div>
 
-<table align="center" border="0">
-<tr>
-<td width="100%">
-
-I'm a final-year **Computer Science** student at Lovely Professional University who likes shipping things that work, not just things that compile. My world is the **MERN stack + Next.js + TypeScript**, with a growing comfort in cloud and backend infrastructure.
+I'm a final-year **Computer Science** student at Lovely Professional University who likes shipping things that work, not just things that compile. My world is the **MERN stack + Next.js + TypeScript**, with growing comfort in cloud and backend infrastructure.
 
 This past summer I interned at **Green Mandi Deals**, where I built a role-based admin portal that cut admin task time by **35%** — and learned that the best code is the kind that quietly disappears into the product. Outside of internships, I'm usually deep in a side project, chasing the next DSA problem, or figuring out why a JWT token *won't* expire when it's supposed to.
 
-🎯 Currently sharpening Linux, SQL, and backend support engineering fundamentals
-🚀 Open to **Internships**, **Full-Time SDE roles**, and collaborative builds
-⚡ Fun fact — I once ran a 24-hour hackathon for 100+ people and lived to tell the tale
+<div align="center">
 
-</td>
-</tr>
-</table>
+🎯 Sharpening Linux, SQL & backend support fundamentals &nbsp;•&nbsp; 🚀 Open to Internships & Full-Time SDE roles &nbsp;•&nbsp; ⚡ Once ran a 24-hour hackathon for 100+ people
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -53,32 +47,13 @@ This past summer I interned at **Green Mandi Deals**, where I built a role-based
 
 ## 🛠️ What I Build
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Full-Stack Apps
-End-to-end products — React/Next.js front ends backed by secure, scalable Node.js + Express APIs.
-
-</td>
-<td align="center" width="33%">
-
-### 🔐 Secure Systems
-JWT auth, role-based access control, and clean API contracts that hold up under real traffic.
-
-</td>
-<td align="center" width="33%">
-
-### 📊 Data-Driven Platforms
-Schema design and data pipelines that turn messy inputs into reliable, structured insights.
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Full-Stack%20Apps&fontSize=22&fontColor=58A6FF&fontAlignY=60&desc=React%20%2F%20Next.js%20%2B%20Node%20%2F%20Express%2C%20end-to-end&descSize=12&descColor=8B949E&descAlignY=85" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Secure%20Systems&fontSize=22&fontColor=58A6FF&fontAlignY=60&desc=JWT%20auth%2C%20RBAC%2C%20APIs%20that%20hold%20up%20under%20load&descSize=12&descColor=8B949E&descAlignY=85" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Data-Driven%20Platforms&fontSize=22&fontColor=58A6FF&fontAlignY=60&desc=Schema%20design%20that%20turns%20chaos%20into%20signal&descSize=12&descColor=8B949E&descAlignY=85" width="80%"/>
 
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -87,14 +62,14 @@ Schema design and data pipelines that turn messy inputs into reliable, structure
 ## 💻 Tech Stack
 
 **Languages**
-
+<br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
-
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
@@ -102,20 +77,20 @@ Schema design and data pipelines that turn messy inputs into reliable, structure
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
-
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-303030?style=flat-square&logo=postman&logoColor=FF6C37)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Databases**
-
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303030?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-303030?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-303030?style=flat-square&logo=mysql&logoColor=4479A1)
 
 **Cloud, DevOps & Tools**
-
+<br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -126,7 +101,7 @@ Schema design and data pipelines that turn messy inputs into reliable, structure
 
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -134,54 +109,49 @@ Schema design and data pipelines that turn messy inputs into reliable, structure
 
 ## 🚀 Featured Projects
 
+<sub>tap a project to expand ▾</sub>
+
 </div>
 
-<table align="center" width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-<div align="center">
+<details open>
+<summary><b>💳 CrediScore — FinTech Credit Scoring & Lending Platform</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=CrediScore&fontSize=28&fontColor=58A6FF&fontAlignY=70&desc=FinTech%20Credit%20Scoring%20%26%20Lending%20Platform&descSize=12&descAlignY=95&descColor=8B949E" width="100%"/>
+A MERN credit-scoring engine processing **1,000+ records** at sub-2s end-to-end latency.
 
-A MERN credit-scoring engine processing **1,000+ records** at sub-2s latency.
+- ✅ Modular microservices for auth, validation & rule-based scoring
+- ✅ 10+ documented REST endpoints with clear request/response contracts
+- ✅ **30% less** frontend-backend integration overhead
 
 `MongoDB` `Express` `React` `Node.js`
-
-✅ Modular microservices for auth, validation & scoring
-✅ 10+ documented REST endpoints
-✅ **30% less** frontend-backend integration overhead
 
 <a href="https://github.com/Uditgoyal09"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=CarbonTracker&fontSize=28&fontColor=58A6FF&fontAlignY=70&desc=Carbon%20Footprint%20Monitoring%20Platform&descSize=12&descAlignY=95&descColor=8B949E" width="100%"/>
+<details>
+<summary><b>🌱 CarbonTracker — Carbon Footprint Monitoring Platform</b></summary>
+<br/>
 
-A full-stack platform estimating **real-time CO₂** across transport, energy & lifestyle.
+A full-stack platform estimating **real-time CO₂** across transport, energy & lifestyle data.
+
+- ✅ JWT-based auth with role-level access across 12+ secured endpoints
+- ✅ Structured MongoDB schema handling multisource emission data
+- ✅ Built for accuracy and easy extensibility
 
 `MongoDB` `Express` `React` `Node.js`
-
-✅ JWT auth with role-level access across 12+ endpoints
-✅ Structured schema for multisource emission data
-✅ Built for accuracy & extensibility
 
 <a href="https://github.com/Uditgoyal09"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</div>
-</td>
-</tr>
-</table>
+</details>
 
 <div align="center">
 <sub>📌 More builds live on my <a href="https://github.com/Uditgoyal09?tab=repositories">GitHub repositories</a></sub>
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -189,16 +159,19 @@ A full-stack platform estimating **real-time CO₂** across transport, energy & 
 
 ## 💼 Experience
 
-### Web Developer Intern · Green Mandi Deals Private Limited
-`Jun 2025 – Aug 2025`
+</div>
+
+<details open>
+<summary><b>Web Developer Intern — Green Mandi Deals Private Limited</b> &nbsp;<sub>Jun 2025 – Aug 2025</sub></summary>
+<br/>
 
 Architected a role-based admin portal and modular platform components — **cutting admin task time by 35%** — while streamlining REST integration across 10+ backend services for a **40% throughput boost**.
 
 `Next.js` `React.js` `Node.js` `Express.js` `TypeScript` `PostgreSQL`
 
-</div>
+</details>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -206,21 +179,25 @@ Architected a role-based admin portal and modular platform components — **cutt
 
 ## 🏆 Achievements & Certifications
 
+</div>
+
 🥇 **160+ DSA problems solved** — arrays, trees, graphs, recursion, DP
 ⭐ **4★ HackerRank Problem Solving Badge** — 500+ points
 🎤 **Coordinated HackWithVertos 1.0** — 24-hour hackathon, recognized by ECHO @ LPU
 
+<details>
+<summary><b>📜 View Certifications</b></summary>
 <br/>
 
-`Oracle Data Platform 2025 — Foundations Associate`
-`AWS SimuLearn — Cloud Computing Essentials`
-`Summer Training in OOP using C++ — LPU`
-`Privacy & Security in Online Social Media — NPTEL`
-`Full Stack Development — Board Infinity`
+- Oracle Data Platform 2025 — Foundations Associate, *Oracle*
+- AWS SimuLearn — Cloud Computing Essentials, *AWS Training & Certification*
+- Summer Training in OOP using C++, *LPU*
+- Privacy & Security in Online Social Media, *NPTEL*
+- Full Stack Development, *Board Infinity*
 
-</div>
+</details>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -229,13 +206,12 @@ Architected a role-based admin portal and modular platform components — **cutt
 ## 🧮 Competitive Programming
 
 <a href="https://leetcode.com/u/9lKZlecUHV/">
-<img src="https://leetcard.jacoblin.cool/9lKZlecUHV?theme=dark&font=Fira%20Code&ext=heatmap" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/9lKZlecUHV?theme=dark&font=Fira%20Code&ext=heatmap" width="90%"/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=Uditgoyal09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
 
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -243,7 +219,9 @@ Architected a role-based admin portal and modular platform components — **cutt
 
 ## 📊 GitHub Analytics
 
+<img src="https://github-readme-stats.vercel.app/api?username=Uditgoyal09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uditgoyal09&theme=tokyonight&hide_border=true" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditgoyal09&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
@@ -257,11 +235,11 @@ Architected a role-based admin portal and modular platform components — **cutt
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Uditgoyal09/Uditgoyal09/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<sub>🐍 Snake animation auto-generates once the <code>github-readme-snake</code> Action runs on this repo</sub>
+<sub>🐍 animates once the <code>github-readme-snake</code> Action runs on this repo — setup link in final notes</sub>
 
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -273,7 +251,7 @@ I contribute small but meaningful fixes, explore well-maintained repos to learn 
 
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
@@ -281,14 +259,20 @@ I contribute small but meaningful fixes, explore well-maintained repos to learn 
 
 ## 🎯 Current Goals
 
-🔭 Landing a **Full-Time SDE / Software Support role** post-graduation
-📚 Deepening backend, Linux & system design fundamentals
-🤝 Contributing to a production open-source project
-🧠 Crossing **300+ DSA problems** by year-end
-
 </div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=58A6FF&section=header"/></div>
+<details>
+<summary><b>🔭 See what I'm working toward</b></summary>
+<br/>
+
+- Landing a **Full-Time SDE / Software Support role** post-graduation
+- Deepening backend, Linux & system design fundamentals
+- Contributing to a production open-source project
+- Crossing **300+ DSA problems** by year-end
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0F2027&height=3&width=100%" width="100%"/>
 
 <br/>
 
